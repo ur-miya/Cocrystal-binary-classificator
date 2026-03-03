@@ -74,5 +74,3 @@ On a typical dataset (80/20 train/validation split), the model achieves:
 - Weighted Accuracy: ~0.80-0.85
 
 Performance may vary based on dataset size, imbalance, and feature choices. 
-
-Этот README охватывает основные аспекты проекта. При необходимости его можно дополнить конкретными результатами или ссылками на данные. Если нужна русская версия, можно легко перевести.
